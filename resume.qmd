@@ -1,6 +1,6 @@
 ---
-title: "Gérard Pastufle"
-subtitle: "Research scientist in natural sciences"
+title: "Mike Kelleman"
+subtitle: "Experienced Biostatistician"
 date: ""
 author: ""
 title-block-banner: true
@@ -98,6 +98,10 @@ gerard.pastufle@domain-name.net
 [ResearchGate](https://www.researchgate.net/)
 :::
 
+##
+Michael Kelleman is a Senior Statistician II with over a decade of combined academic and industry experience, specializing in real-world evidence, clinical research, and advanced statistical methodologies. He brings extensive expertise in R, SAS, SQL, and CDISC standards, applying robust analytical techniques across cardiology, emergency medicine, nephrology, and autoimmune disease research. Michael has led large multicentre projects, authored numerous scientific publications, and consistently delivers high-quality, reproducible statistical solutions.
+
+
 ## Professional Experience
 
 ```{r}
@@ -148,19 +152,24 @@ exp_pro(employer = "Department of Ecology and Evolutionary Biology, University o
   ))
 ```
 
-## Cursus
+## Education
 
 ```{r}
-exp_school(employer = "University of California, Los Angeles",
-           desc = c("Ph.D. in Ecology and Evolutionary Biology"),
-           date = "2008 – 2013")
+exp_school(employer = "Emory University, Rollins School of Public Health",
+           desc = c("MSPH, Biostatistics"),
+           date = "2011 – 2013")
 ```
 
 ```{r}
-exp_school(employer = "Université Pierre et Marie Curie, Paris",
-           desc = c("M.Sc. in Biological Sciences",
-                    "B.Sc. in Biology"),
-           date = "2003 – 2008")
+exp_school(employer = "Columbia University, School of Physicians and Surgeons",
+           desc = c("MS, Nutrition and Public Health"),
+           date = "2007 – 2008")
+```
+
+```{r}
+exp_school(employer = "Franklin and Marshall College",
+           desc = c("AB, Mathematics"),
+           date = "2003 – 2007")
 ```
 
 ## Expertise & Hobbies
